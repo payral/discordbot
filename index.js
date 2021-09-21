@@ -43,4 +43,4 @@ client.on('message', message =>{
 
  */
 
-client.login('ODg4MjM4MDA1NjAzNjk2Njcw.YUPyGw.YzZ6w_VkbUUOmGBrpHadyPoxr1M');
+client.login(process.env.DJS_TOKEN);
